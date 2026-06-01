@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://x.com/Vaishnaviinit">
-    <img src="https://img.shields.io/badge/Follow-@Vaishnaviinit-1DA1F2?style=for-the-badge&logo=x&logoColor=white" />
+    <img src="https://img.shields.io/badge/Follow-@Vaishnaviinit-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 
   <a href="https://www.linkedin.com/in/vaishnavi-chaudhary-378a9226a/">
@@ -13,6 +13,8 @@
 </p>
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+---
 
 ## 👩‍💻 About Me
 
@@ -37,7 +39,7 @@
 </a>
 </p>
 
-📧 **Email:** vaishnavipixy@gmail.com
+📧 **Email:** **vaishnavipixy@gmail.com**
 
 ---
 
@@ -70,5 +72,45 @@
 ### Tools & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,vercel,arduino" />
+<img src="https://skillicons.dev/icons?i=git,github,vercel,arduino" />
 </p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vaishnaviinit&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnaviinit&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnaviinit&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vaishnaviinit&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+# 📈 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vaishnaviinit&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
+---
+
+<h3 align="center">
+✨ Thanks for visiting my profile! ✨
+</h3>
