@@ -1,16 +1,106 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Vaishnavi Chaudhary</h1>
+<h3 align="center">Passionate MERN Stack Developer from India 🇮🇳</h3>
 
-<!--
-**vaishnaviinit/vaishnaviinit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://x.com/Vaishnaviinit">
+    <img src="https://img.shields.io/twitter/follow/Vaishnaviinit?logo=twitter&style=for-the-badge" alt="twitter" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩‍💻 About Me
+
+- 🌱 Currently learning **Advanced MERN Stack Development**
+- 🚀 Interested in **Full Stack Development**
+- 💡 Passionate about building real-world projects
+- 🎯 Exploring modern web technologies and scalable applications
+- 🤝 Open to collaborating on exciting projects
+- ⚡ Fun fact: I love turning ideas into working applications
+
+---
+
+### 📫 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/vaishnavi-chaudhary-378a9226a">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://x.com/Vaishnaviinit">
+<img src="https://skillicons.dev/icons?i=twitter" />
+</a>
+</p>
+
+📧 **Email:** vaishnavipixy@gmail.com
+
+---
+
+## 🚀 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,python,c,cpp" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,vercel,arduino,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vaishnaviinit&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnaviinit&layout=compact&theme=tokyonight&hide_border=true" />
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnaviinit&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=vaishnaviinit&theme=tokyonight&no-frame=true&margin-w=15" />
+</p>
+
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vaishnaviinit&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+<h3 align="center">✨ Thanks for visiting my profile ✨</h3>
